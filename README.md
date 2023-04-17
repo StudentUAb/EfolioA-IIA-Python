@@ -13,18 +13,15 @@ Os terrenos são quadrados e têm igual valor. Podem ser trocados terrenos que s
 problema de permutação de terrenos
 ------------------
 
-## Sintaxe para compilar:
-
-<pre>gcc efolia.cpp -o efolioa </pre>
 
 ## Sintaxe para executar:
-<pre>./efolioa </pre>
+<pre>python3 efolioA.py</pre>
 
 
-O projeto foi feito em C++
+O projeto foi feito em Python
 
 
-The project was done with C++
+The project was done with Python
 
 
 <img src="tela.png" alt="page-home">
@@ -33,7 +30,7 @@ The project was done with C++
 🔧 Tecnologias utilizadas:
 ------------------
 
-- C++
+- Python
 - MacOS
 
 💬 Fale comigo
